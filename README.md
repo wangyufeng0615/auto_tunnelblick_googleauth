@@ -38,6 +38,12 @@ ps. 如果只常用一个VPN，可设置alias进一步简化操作。
 
 缺点则是损失了一定的便捷性，有时仍然需要输入macOS的用户密码。
 
+网上已有的一些方案，要么安全性不太好（密码存到文件里），要么使用起来比较麻烦，这个脚本集各家之长做了个简化。
+
 ## License
 
 MIT
+
+## Reference
+- https://ifritltd.com/2018/01/15/automating-vpn-connection-when-using-multifactor-authentication-with-tunnelblick-on-macos/
+- https://darthnull.org/building/2014/05/30/google-auth-tunnelblick/
